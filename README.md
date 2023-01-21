@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ter um controle de seus hábitos no dia a dia.
 
+- [visite o projeto Online](https://linsherniq.github.io/Projeto---nlw-setup/)
+
 
 
 ## 🔖 Layout
